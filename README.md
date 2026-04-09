@@ -12,3 +12,13 @@
 ## 📸 Preview
 
 ![Summify Preview](preview.png)
+
+
+## ✨ Features
+
+- 📝 **Smart Summarization** — Short, Medium, or Detailed output
+- 🔑 **Keyword Extraction** — 5–8 key terms from the text
+- 🎭 **Sentiment Analysis** — Positive, Neutral, or Negative
+- 💡 **One-liner** — Single sentence capturing the core idea
+- 📊 **Word Count & Read Time** — Calculated from original input
+- 🎨 **Industry-grade UI** — Dark theme built with Streamlit
