@@ -77,3 +77,11 @@ ai-summarizer/
 ├── .gitignore          # Ignores .env
 └── README.md           # You are here
 ```
+
+## 🔐 Environment Variables
+
+| Variable | Description |
+|----------|-------------|
+| `OPENAI_API_KEY` | Your OpenAI API key from [platform.openai.com](https://platform.openai.com/api-keys) |
+
+> ⚠️ Never commit your `.env` file. It's already in `.gitignore`.
