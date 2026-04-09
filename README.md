@@ -31,3 +31,19 @@
 | AI Model | OpenAI `gpt-4o-mini` |
 | Language | Python 3.10+ |
 | Env Management | python-dotenv |
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/ai-summarizer.git
+cd ai-summarizer
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Add your API key
+Create a `.env` file in the root directory:
