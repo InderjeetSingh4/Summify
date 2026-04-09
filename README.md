@@ -52,3 +52,28 @@ Create a `.env` file in the root directory:
 ```bash
 streamlit run app.py
 ```
+
+
+## 📦 Structured Output
+
+Every request returns a clean JSON object:
+
+```json
+{
+  "summary": "2-3 sentence / paragraph summary of the text",
+  "keywords": ["keyword1", "keyword2", "keyword3"],
+  "sentiment": "positive | neutral | negative",
+  "one_liner": "Single sentence capturing the core idea"
+}
+```
+
+## 📁 Project Structure
+
+```
+ai-summarizer/
+├── app.py              # Main Streamlit application
+├── requirements.txt    # Python dependencies
+├── .env                # API key (never commit this)
+├── .gitignore          # Ignores .env
+└── README.md           # You are here
+```
