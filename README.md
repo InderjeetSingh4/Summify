@@ -11,8 +11,8 @@
 
 ## 📸 Preview
 
-![Summify Preview](<img width="1709" height="896" alt="Screenshot 2026-04-09 at 17 42 04" src="https://github.com/user-attachments/assets/21571de2-159e-4a35-943d-58df8626f90c" />
-)
+![Summify Preview](<img width="1709" height="896" alt="Screenshot 2026-04-09 at 17 42 04" src="https://github.com/user-attachments/assets/e221fc32-dff3-4052-b7ae-9cc36cbd6dbe" />)
+
 
 
 ## ✨ Features
