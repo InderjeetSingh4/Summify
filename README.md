@@ -11,9 +11,7 @@
 
 ## 📸 Preview
 
-![Summify Preview](<img width="1709" height="896" alt="summify" src="https://github.com/user-attachments/assets/911bc2dd-a3ce-4458-864c-6166c1991965" />
-
-)
+<img width="1709" height="896" alt="summify" src="https://github.com/user-attachments/assets/911bc2dd-a3ce-4458-864c-6166c1991965" />
 
 
 
