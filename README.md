@@ -85,3 +85,12 @@ ai-summarizer/
 | `OPENAI_API_KEY` | Your OpenAI API key from [platform.openai.com](https://platform.openai.com/api-keys) |
 
 > ⚠️ Never commit your `.env` file. It's already in `.gitignore`.
+
+## 🙌 Acknowledgements
+
+- [OpenAI](https://openai.com) for the GPT-4o-mini API
+- [Streamlit](https://streamlit.io) for the UI framework
+
+---
+
+> Built as part of a mini project to demonstrate AI API integration with structured output and a clean production UI.
