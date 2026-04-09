@@ -22,3 +22,12 @@
 - 💡 **One-liner** — Single sentence capturing the core idea
 - 📊 **Word Count & Read Time** — Calculated from original input
 - 🎨 **Industry-grade UI** — Dark theme built with Streamlit
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Frontend | Streamlit |
+| AI Model | OpenAI `gpt-4o-mini` |
+| Language | Python 3.10+ |
+| Env Management | python-dotenv |
