@@ -97,7 +97,7 @@ def read_time(wc): return f"{max(1, round(wc / 200))} min"
 with st.sidebar:
     st.markdown("### ⚙ Settings")
     st.markdown("**Model**")
-    st.caption("Using `gpt-4o-mini` — fast, accurate, cost-efficient.")
+    st.caption("Using `gpt-4o-mini` — fast, accurate.")
     st.divider()
     st.markdown("**How it works**")
     st.caption("1. Paste any text\n2. Choose summary length\n3. Hit Summarise\n4. Get structured output")
